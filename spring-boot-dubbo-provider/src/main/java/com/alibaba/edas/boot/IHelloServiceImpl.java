@@ -1,6 +1,7 @@
 package com.alibaba.edas.boot;
 
-import com.alibaba.dubbo.config.annotation.Service;
+
+import org.apache.dubbo.config.annotation.Service;
 
 /**
  * 服务提供者实现
